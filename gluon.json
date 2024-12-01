@@ -1,0 +1,13 @@
+{
+  "name": "Proxima",
+  "vendor": "EnderSlain",
+  "appId": "net.enderslain.proxima",
+  "binaryName": "proxima-browser",
+  "version": {
+    "product": "firefox",
+    "version": "133.0"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  }
+}
