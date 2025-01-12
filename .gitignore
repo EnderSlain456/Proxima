@@ -1,1 +1,7 @@
 node_modules/
+.gluon/
+.dotbuild/
+.gluon/
+engine/
+firefox-*/
+node_modules/
