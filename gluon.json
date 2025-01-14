@@ -11,7 +11,25 @@
     "windowsUseSymbolicLinks": false
   },
   "addons": {},
-  "brands": {},
+  "brands": {
+    "stable": {
+      "backgroundColor":"#2B2A33",
+      "brandShorterName": "proxima",
+      "brandShortName": "proxima",
+      "brandFullName": "proxima",
+      "release": {
+        "displayVersion": "1.0.0",
+        "github": {
+          "repo": "EnderSlain456/Proxima"
+        },
+        "x86": {
+          "windowsMar": "windows.mar",
+          "macosMar": "macosIntel.mar",
+          "linuxMar": "linux.mar"
+        }
+      }
+    }
+  },
   "license": {
     "ignoredFiles": [
       ".*\\.json"
