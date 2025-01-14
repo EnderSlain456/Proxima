@@ -5,7 +5,7 @@
   "binaryName": "Proxima",
   "version": {
     "product": "firefox",
-    "version": "134.0"
+    "version": "134.0.1"
   },
   "buildOptions": {
     "windowsUseSymbolicLinks": false
