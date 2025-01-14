@@ -2,12 +2,20 @@
   "name": "Proxima",
   "vendor": "Proxima",
   "appId": "net.enderslain.proxima",
-  "binaryName": "proxima-browser",
+  "binaryName": "Proxima",
   "version": {
     "product": "firefox",
     "version": "134.0"
   },
   "buildOptions": {
     "windowsUseSymbolicLinks": false
+  },
+  "addons": {},
+  "brands": {},
+  "license": {
+    "ignoredFiles": [
+      ".*\\.json"
+    ],
+    "licenseType": "MPL-2.0"
   }
 }
