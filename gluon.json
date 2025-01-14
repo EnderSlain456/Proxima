@@ -1,8 +1,8 @@
 {
-  "name": "Proxima",
-  "vendor": "Proxima",
+  "name": "proxima",
+  "vendor": "proxima",
   "appId": "net.enderslain.proxima",
-  "binaryName": "Proxima",
+  "binaryName": "proxima",
   "version": {
     "product": "firefox",
     "version": "134.0.1"
